@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm  Remon Ayoub 👋
 
-<!--
-**devremon/devremon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Mobile Application Developer** with a strong interest in **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+I enjoy building elegant, user-friendly mobile applications and exploring how AI can be used to create smarter and more innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I'm passionate about:
+- Mobile App Development (Flutter, React Native, Kotlin, Swift)
+- Artificial Intelligence & Machine Learning
+- Creating intelligent mobile experiences
+- Clean code and great user interfaces
+
+### 🔭 Currently Focusing On:
+- Developing modern mobile applications
+- Learning and applying AI/ML concepts in real projects
+- Building scalable and performant apps
