@@ -5,7 +5,7 @@ I'm a passionate **Mobile Application Developer** with a strong interest in **Ar
 I enjoy building elegant, user-friendly mobile applications and exploring how AI can be used to create smarter and more innovative solutions.
 
 ### 🌟 What I'm passionate about:
-- Mobile App Development (Flutter, React Native, Kotlin, Swift)
+- Mobile App Development (Flutter, Dart)
 - Artificial Intelligence & Machine Learning
 - Creating intelligent mobile experiences
 - Clean code and great user interfaces
